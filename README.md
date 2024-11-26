@@ -1,1 +1,1 @@
-# two-col-cv
+# A Minimal Two-Column CV using Typst
